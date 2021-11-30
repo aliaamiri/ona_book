@@ -617,7 +617,7 @@ gmanage_edgelist <- as.matrix(gmanage_edgelist)
                                        directed = TRUE))
 ```
 
-We see a similar output to `gwork`, except we now have a directed graph, donated by `D` in the first line, and we see that the edges are now denoted with direction using `->`.
+We see a similar output to `gwork`, except we now have a directed graph, denoted by `D` in the first line, and we see that the edges are now denoted with direction using `->`.
 
 ### Creating a graph from an adjacency matrix
 
